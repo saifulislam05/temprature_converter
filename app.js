@@ -104,7 +104,6 @@ btn.addEventListener('click', () => {
 })
 
 
-console.log(kelvin.value - 273.15)
 
 
 
